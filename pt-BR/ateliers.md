@@ -29,7 +29,7 @@ A prática instrumental é a base da realização das oficinas. Os princípios t
 ## Quando?
 Sábados, exceto feriados escolares\\
 Nível 1 (bases rítmicas, harmônicas e melódicas do Choro) 10h-11h30.\\
-Nível 2 (repertório, idioma) das 11h30 às 13h00.
+Nível 2 (oficina de prática coletiva: desenvolvimento de um repertório, trabalho de jogo coletivo: acompanhamento, baixarias, contraponto) das 11h30 às 13h00.
 
 
 ## Onde?

@@ -30,7 +30,7 @@ Instrument practice is the base for the workshops. The theoretical principles in
 ## When are the workhops held?
 Saturdays except school holidays\\
 Level 1 (rhythmic, harmonic and melodic bases of Choro) 10am-11.30am.\\
-Level 2 (repertoire, language) 11.30am-1pm.
+Level 2 (group practice workshop: development of a repertoire, work on group playing: accompaniment, baixarias, counter-melody) 11.30am-1pm.
 
 ## Where?
 At the Pianofabriek, rue du Fort 35, 1060 Saint Gilles, Brazzaville room (1st floor).

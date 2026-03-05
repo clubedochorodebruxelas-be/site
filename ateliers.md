@@ -30,7 +30,7 @@ La pratique instrumentale est la base dans le déroulement des ateliers. Les pri
 ## Quand ?
 Les samedis sauf vacances scolaires\\
 Niveau 1 (bases rythmiques, harmoniques et mélodiques du Choro) 10h-11h30.\\
-Niveau 2 (répertoire, langage) 11h30-13h00.
+Niveau 2 (atelier de pratique collective : développement d’un répertoire, travail du jeu collectif : accompagnement, baixarias, contre-chant) 11h30-13h00.
 
 ## Où ?
 Au Pianofabriek rue du Fort 35 à 1060 Saint Gilles, salle Brazzaville (1er étage).
