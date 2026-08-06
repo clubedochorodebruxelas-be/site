@@ -8,9 +8,12 @@ layout: default
 <div class="content">
   <div class="columns">
     <div class="column is-8">
+    <div class="is-hidden-desktop">
+      <a href="#calendar-anchor"><i><p>{% t "click_for_next_events" %}</p></i></a>
+    </div>
     {{ content }}
     </div>
-    <div class="column is-4">
+    <div class="column is-4" id="calendar-anchor">
       {%- include calendar_includes.html -%}
       {%- include next_events.html -%}
       {%- include next_workshops.html -%}

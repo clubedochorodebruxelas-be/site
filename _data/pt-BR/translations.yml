@@ -1,7 +1,9 @@
 home: Página inicial
 language: Língua
 workshops: Oficinas
-concerts: Apresentações
+rodas: Rodas
+masterclasses: Masterclasses
+concerts: Concerts
 contact: Contato
 about_us: Sobre o clube
 view_larger_map: Ver mapa ampliado
@@ -14,3 +16,4 @@ musicians_playing_in_a_roda: "Músicos tocando numa roda"
 clube_de_choro_logo: "Logo do Clube do Choro de Bruxelas"
 previous_masterclasses: "Masterclasses anteriores"
 new: "Novo"
+click_for_next_events: "Ir para próximos eventos"
